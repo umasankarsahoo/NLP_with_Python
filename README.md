@@ -1,2 +1,2 @@
-# NLP_with_Python
-NLP nuts and bolts
+# NLP with Python
+Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
